@@ -2,20 +2,20 @@
   "name": "cinemania-app",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://em0nti.github.io/project-amenic-6",
+  "homepage": "https://AlinaRyabova.github.io/project-amenic-6",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /project-amenic-6/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/em0nti/project-amenic-6.git"
+    "url": "git+https://github.com/AlinaRyabova/project-amenic-6.git"
   },
   "keywords": [],
-  "author": "Andrii Triukhan <tryuhan.work@gmail.com>",
+  "author": "Alina Ryabova <alina_v_r@ukr.net>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/em0nti/project-amenic-6/issues"
+    "url": "https://github.com/AlinaRyabova/project-amenic-6/issues"
   },
   "dependencies": {
     "axios": "^1.4.0",
